@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 
-
-
 class BlogForm extends Component {
   constructor(props){
     super(props);
@@ -35,8 +33,6 @@ class BlogForm extends Component {
     )
   }
 }
-
-
 class BlogBoard extends Component {
   constructor(props){
     super(props);
@@ -58,4 +54,4 @@ class BlogBoard extends Component {
     )
   }
 }
-export default BlogBoard;  
+export default BlogBoard;

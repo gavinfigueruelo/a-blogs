@@ -1,4 +1,6 @@
 import BlogBoard from './a/BlogBoard';
+import PeopleBoard from './b/PeopleBoard'
+import BlogList from './c/BlogReading'
 import './App.css';
 
 function App() {
